@@ -19,6 +19,12 @@
 ###
 
 <div align="left">
+  <a href="https://www.facebook.com/amrit.bhattarai.3344/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="" alt="facebook logo"  />
+  </a>
+  <a href="https://www.instagram.com/amrit.010/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="" alt="instagram logo"  />
+  </a>
   <a href="https://www.linkedin.com/in/amrit-bhattarai-30ab42323/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="" alt="linkedin logo"  />
   </a>
@@ -30,12 +36,6 @@
   </a>
   <a href="https://ko-fi.com/void44404#" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Ko-fi&logo=ko-fi&label=&color=F16061&logoColor=white&labelColor=&style=for-the-badge" height="" alt="ko-fi logo"  />
-  </a>
-  <a href="https://www.facebook.com/amrit.bhattarai.3344/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="" alt="facebook logo"  />
-  </a>
-  <a href="https://www.instagram.com/amrit.010/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="" alt="instagram logo"  />
   </a>
 </div>
 
