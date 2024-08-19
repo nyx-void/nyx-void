@@ -20,14 +20,6 @@
 
 ###
 
-<h2 align="left">Programs and other things i Use: </h2>
-
-###
-
-<p align="left"> OS:      Linux Btw(Arch Linux) <br> Text-Editor:      NeoVim <br> Pc:      Latitude-7280(i7_6th_Gen) <br> Phone:      Redmi 13c (I hate my phone)</p>
-
-###
-
 <h2 align="left">Socials</h2>
 
 ###
