@@ -92,13 +92,13 @@
 ###
 
 <div align="left">
-<img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=amrit-44404&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  ![amrit-44404's Stats](https://github-readme-stats.vercel.app/api?username=amrit-44404&theme=dark&show_icons=true&hide_border=true&count_private=true)
 </div>
 
 <div align="left">
- <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=amrit-44404&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  ![amrit-44404's Streak](https://github-readme-streak-stats.herokuapp.com/?user=amrit-44404&theme=dark&hide_border=true)
 </div>
 
 <div align="left">
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=amrit-44404&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  ![amrit-44404's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amrit-44404&theme=dark&show_icons=true&hide_border=true&layout=compact)
 </div>
