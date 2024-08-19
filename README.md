@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left"> 1) Text Editor - NeoVim <br> 2) OS - Linux Btw(Arch Linux) <br> 3) Pc - Latitude 7280(i7_6th_Gen)</p>
+<p align="left"> OS: Linux Btw(Arch Linux) <br> Text-Editor: NeoVim <br> Pc: Latitude-7280(i7_6th_Gen) <br> Phone: Redmi 13c(I hate my phone)</p>
 
 ###
 
