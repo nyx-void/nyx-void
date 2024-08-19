@@ -20,6 +20,14 @@
 
 ###
 
+<h2 align="left">Programs i Use: </h2>
+
+###
+
+<p align="left"> 1) Text Editor - NeoVim <br> 2) OS - Linux Btw(Arch Linux) <br> 3) Pc - Latitude 7280(i7_6th_Gen)</p>
+
+###
+
 <h2 align="left">Socials</h2>
 
 ###
