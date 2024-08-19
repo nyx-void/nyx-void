@@ -1,7 +1,4 @@
 ###
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=amrit-44404&label=Profile%20views&color=0e75b6&style=flat" alt="amrit-44404" /> </p>
-
-###
 
 <h1 align="left">Hi, I'm Amrit!</h1>
 
@@ -105,5 +102,9 @@
 <div align="left">
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=amrit-44404&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
+
+###
+
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=amrit-44404&label=Profile%20views&color=0e75b6&style=flat" alt="amrit-44404" /> </p>
 
 ###
