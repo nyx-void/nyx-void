@@ -51,7 +51,7 @@
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black&style=for-the-badge" height="" alt="c logo"  />
+  <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white&style=for-the-badge" height="" alt="c logo"  />
   <img width="0" />
   <img src="https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=white&style=for-the-badge" height="" alt="lua logo"  />
   <img width="0" />
