@@ -1,5 +1,3 @@
-###
-
 <h1 align="left">Hi, I'm Amrit!</h1>
 
 ###
