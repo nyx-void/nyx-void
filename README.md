@@ -1,4 +1,8 @@
+###
+
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=amrit-44404&label=Profile%20views&color=0e75b6&style=flat" alt="amrit-44404" /> </p>
+
+###
 
 <h1 align="left">Hi, I'm Amrit!</h1>
 
@@ -92,13 +96,15 @@
 ###
 
 <div align="left">
-  ![amrit-44404's Stats](https://github-readme-stats.vercel.app/api?username=amrit-44404&theme=dark&show_icons=true&hide_border=true&count_private=true)
+<img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=amrit-44404&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
 </div>
 
 <div align="left">
-  ![amrit-44404's Streak](https://github-readme-streak-stats.herokuapp.com/?user=amrit-44404&theme=dark&hide_border=true)
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=amrit-44404&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
 </div>
 
 <div align="left">
-![](https://github-readme-stats.vercel.app/api?username=amrit-44404&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=amrit-44404&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
+
+###
