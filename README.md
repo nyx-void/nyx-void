@@ -85,6 +85,12 @@
 
 <img  src="https://raw.githubusercontent.com/amrit-44404/amrit-44404/output/github-contribution-grid-snake-dark.svg" alt="contribution graph" />
 
+###
+
+<h2 align="left">Stats: </h2>
+
+###
+
 <div align="left">
 <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=amrit-44404&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
 </div>
