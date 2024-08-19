@@ -100,5 +100,5 @@
 </div>
 
 <div align="left">
-  ![amrit-44404's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amrit-44404&theme=dark&show_icons=true&hide_border=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=amrit-44404&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 </div>
