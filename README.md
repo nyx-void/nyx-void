@@ -1,4 +1,4 @@
-<h1 align="left">Hi, I'm Amrit!</h1>
+<h1 align="left">Hi, I'm void(amrit)!</h1>
 
 ###
 
@@ -81,7 +81,7 @@
 
 ###
 
-<img  src="https://raw.githubusercontent.com/amrit-44404/amrit-44404/output/github-contribution-grid-snake-dark.svg" alt="contribution graph" />
+<img  src="https://raw.githubusercontent.com/nyx-void/nyx-void/output/github-contribution-grid-snake-dark.svg" alt="contribution graph" />
 
 ###
 
@@ -90,19 +90,19 @@
 ###
 
 <div align="left">
-<img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=amrit-44404&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+<img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=nyx-void&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
 </div>
 
 <div align="left">
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=amrit-44404&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=nyx-void&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
 </div>
 
 <div align="left">
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=amrit-44404&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=nyx-void&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 ###
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amrit-44404&label=Profile%20views&color=0e75b6&style=flat" alt="amrit-44404" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nyx-void&label=Profile%20views&color=0e75b6&style=flat" alt="nyx-void" /> </p>
 
 ###
