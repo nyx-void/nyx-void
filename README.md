@@ -28,7 +28,7 @@
   <a href="https://www.linkedin.com/in/amrit-bhattarai-30ab42323/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="" alt="linkedin logo"  />
   </a>
-  <a href="https://www.patreon.com/user?u=139253929" target="_blank">
+  <a href="https://www.patreon.com/nyxvoid" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Patreon&logo=patreon&label=&color=F96854&logoColor=white&labelColor=&style=for-the-badge" height="" alt="patreon logo"  />
   </a>
   <a href="https://dev.to/nyx-void" target="_blank">
