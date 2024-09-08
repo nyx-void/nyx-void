@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm a bachelor's student from Butwal, Nepal.</p>
+<p align="left">I am an open-source enthusiast and dedicated programmer with a passion for crafting elegant and efficient code.</p>
 
 ###
 
